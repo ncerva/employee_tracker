@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ncerva/employee_tracker#readme",
   "dependencies": {
+    "inquirer": "^8.0.0",
     "mysql": "^2.18.1"
   }
 }
